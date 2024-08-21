@@ -1,0 +1,11 @@
+{
+  "name": "com.hungnt.packages",
+  "version": "1.0.0",
+  "displayName": "HungNT: Packages",
+  "description": "Some usefull packages!",
+  "unity": "2020.1",
+  "author": {
+    "name": "Nguyen Tien Hung",
+    "email": "ngtienhungg.work@gmail.com"
+  }
+}
