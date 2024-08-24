@@ -1,5 +1,5 @@
 Thêm vào file `manifest.json`
 
 ```json
-"com.hungnt.packages": "https://github.com/NgTienHungg/HungNT-Packages.git",
+"hungnt.unity.packages": "https://github.com/NgTienHungg/Unity-Packages.git",
 ```
