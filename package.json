@@ -1,7 +1,7 @@
 {
-  "name": "hungnt.unity.packages",
+  "name": "com.hungnt.packages",
   "version": "1.0.0",
-  "displayName": "Unity-Packages",
+  "displayName": "HungNT-Packages",
   "description": "Some usefull packages!",
   "unity": "2020.1",
   "author": {
